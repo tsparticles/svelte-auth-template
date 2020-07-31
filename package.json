@@ -1,0 +1,29 @@
+{
+  "name": "svelte-auth-template",
+  "version": "1.0.0",
+  "private": true,
+  "license": "MIT",
+  "homepage": "https://tsparticles.github.io/svelte-auth-template",
+  "scripts": {
+    "build": "rollup -c",
+    "dev": "rollup -c -w",
+    "start": "sirv public",
+    "predeploy": "yarn build",
+    "deploy": "gh-pages -d public"
+  },
+  "devDependencies": {
+    "@rollup/plugin-commonjs": "^12.0.0",
+    "@rollup/plugin-json": "^4.1.0",
+    "@rollup/plugin-node-resolve": "^8.0.0",
+    "rollup": "^2.3.4",
+    "rollup-plugin-livereload": "^1.0.0",
+    "rollup-plugin-svelte": "^5.0.3",
+    "rollup-plugin-terser": "^5.1.2",
+    "svelte": "^3.0.0",
+    "gh-pages": "^3.1.0"
+  },
+  "dependencies": {
+    "sirv-cli": "^1.0.0",
+    "svelte-particles": "^1.0.5"
+  }
+}
