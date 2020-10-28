@@ -804,12 +804,13 @@ supports-color@^6.1.0:
   dependencies:
     has-flag "^3.0.0"
 
-svelte-particles@^1.0.11:
-  version "1.0.13"
-  resolved "https://registry.yarnpkg.com/svelte-particles/-/svelte-particles-1.0.13.tgz#538814710c199a00e4f705d6357fcaf820539e10"
-  integrity sha512-9NBc9D38Mau6sIYvSImo9SjHdRbPQULTpK9tIfQjYhbmUurPnnGvD6RCrHaLSFOfUK5jva0IfodDgfAustHpJg==
+svelte-particles@^1.1.1:
+  version "1.1.7"
+  resolved "https://registry.yarnpkg.com/svelte-particles/-/svelte-particles-1.1.7.tgz#5861ce08a9fdc7bd5232b681eea980f2335b21a9"
+  integrity sha512-WbHvU4LerXhmZW3rcjyx0LNBhcBAFjepUK7ShaH5h9xSBFHUvBNTjOn9wDPpWcBu6R8axea2bwvKPHk2EBW3Aw==
   dependencies:
-    tsparticles "^1.17.12"
+    tslib "^2.0.3"
+    tsparticles "^1.18.7"
 
 svelte@^3.0.0:
   version "3.24.0"
@@ -849,18 +850,17 @@ trim-repeated@^1.0.0:
   dependencies:
     escape-string-regexp "^1.0.2"
 
-tslib@^2.0.0:
-  version "2.0.0"
-  resolved "https://registry.yarnpkg.com/tslib/-/tslib-2.0.0.tgz#18d13fc2dce04051e20f074cc8387fd8089ce4f3"
-  integrity sha512-lTqkx847PI7xEDYJntxZH89L2/aXInsyF2luSafe/+0fHOMjlBNXdH6th7f70qxLDhul7KZK0zC8V5ZIyHl0/g==
+tslib@^2.0.3:
+  version "2.0.3"
+  resolved "https://registry.yarnpkg.com/tslib/-/tslib-2.0.3.tgz#8e0741ac45fc0c226e58a17bfc3e64b9bc6ca61c"
+  integrity sha512-uZtkfKblCEQtZKBF6EBXVZeQNl82yqtDQdv+eck8u7tdPxjLu2/lp5/uPW+um2tpuxINHWy3GhiccY7QgEaVHQ==
 
-tsparticles@^1.17.12:
-  version "1.17.12"
-  resolved "https://registry.yarnpkg.com/tsparticles/-/tsparticles-1.17.12.tgz#b04746afed112ef6c0cce7da3cf2c7c028970219"
-  integrity sha512-Lc8+aHdT5AwFDxvLCRyVQGgLV8C2efdiWodn/UcGUq+/ZuguyR5fkPfakpuG1HUODPcogzb2D2Qlgg01PBQf6g==
-  dependencies:
+tsparticles@^1.18.7:
+  version "1.18.7"
+  resolved "https://registry.yarnpkg.com/tsparticles/-/tsparticles-1.18.7.tgz#83a568306a8f374e0883c1072cd7cc7fad04f90a"
+  integrity sha512-tBGMwBqksPa8a3vr+WHQiJdOMTNtgXOb5HrT6KvTOjB3W+10zqS/mvJJifsWsl4WrpGUXdRxhQj0Ip9Vu6brow==
+  optionalDependencies:
     pathseg "^1.2.0"
-    tslib "^2.0.0"
 
 universalify@^0.1.0:
   version "0.1.2"
