@@ -804,13 +804,13 @@ supports-color@^6.1.0:
   dependencies:
     has-flag "^3.0.0"
 
-svelte-particles@^1.1.1:
-  version "1.1.7"
-  resolved "https://registry.yarnpkg.com/svelte-particles/-/svelte-particles-1.1.7.tgz#5861ce08a9fdc7bd5232b681eea980f2335b21a9"
-  integrity sha512-WbHvU4LerXhmZW3rcjyx0LNBhcBAFjepUK7ShaH5h9xSBFHUvBNTjOn9wDPpWcBu6R8axea2bwvKPHk2EBW3Aw==
+svelte-particles@^1.1.8:
+  version "1.1.11"
+  resolved "https://registry.yarnpkg.com/svelte-particles/-/svelte-particles-1.1.11.tgz#3a9a12de2b98dd26c2a63827764d2cbbb0f357b4"
+  integrity sha512-8qjfLbIbT55xbCSvxsjFARdZ1T0E7YdAbNOh19QNO2wr8YQiDoNIBCGRsT8VMktb90BANvPz1dnjYzL6WFljdA==
   dependencies:
     tslib "^2.0.3"
-    tsparticles "^1.18.7"
+    tsparticles "^1.18.11"
 
 svelte@^3.0.0:
   version "3.24.0"
@@ -855,10 +855,10 @@ tslib@^2.0.3:
   resolved "https://registry.yarnpkg.com/tslib/-/tslib-2.0.3.tgz#8e0741ac45fc0c226e58a17bfc3e64b9bc6ca61c"
   integrity sha512-uZtkfKblCEQtZKBF6EBXVZeQNl82yqtDQdv+eck8u7tdPxjLu2/lp5/uPW+um2tpuxINHWy3GhiccY7QgEaVHQ==
 
-tsparticles@^1.18.7:
-  version "1.18.7"
-  resolved "https://registry.yarnpkg.com/tsparticles/-/tsparticles-1.18.7.tgz#83a568306a8f374e0883c1072cd7cc7fad04f90a"
-  integrity sha512-tBGMwBqksPa8a3vr+WHQiJdOMTNtgXOb5HrT6KvTOjB3W+10zqS/mvJJifsWsl4WrpGUXdRxhQj0Ip9Vu6brow==
+tsparticles@^1.18.11:
+  version "1.18.11"
+  resolved "https://registry.yarnpkg.com/tsparticles/-/tsparticles-1.18.11.tgz#924d74cf40656727f5df047b53c4761463a4f6e7"
+  integrity sha512-F5czk8foRoywWHDYDT0eZhQwCXOHz7OGhJCsoybThTUIT+nwc1Eclltm/TMrnnxZZghF3Fo0VL8nN4inf+pQbA==
   optionalDependencies:
     pathseg "^1.2.0"
 
