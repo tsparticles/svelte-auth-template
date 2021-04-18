@@ -804,14 +804,14 @@ supports-color@^6.1.0:
   dependencies:
     has-flag "^3.0.0"
 
-svelte-particles@^1.2.1:
-  version "1.7.1"
-  resolved "https://registry.yarnpkg.com/svelte-particles/-/svelte-particles-1.7.1.tgz#f6b5c1c627293b6e595e1abb576f5db9ac223f85"
-  integrity sha512-VZougqofxB+nd3I7P3rLBs+hsXDiCKEUXSEoTFOODmkGTr23TZFcnXpw0zajsHKuZFfpD/ZCcOsHm215S6n4RQ==
+svelte-particles@^1.7.2:
+  version "1.9.2"
+  resolved "https://registry.yarnpkg.com/svelte-particles/-/svelte-particles-1.9.2.tgz#23a8da72cc7f0de23d529f63ab6f0a0488e0e09f"
+  integrity sha512-eP8P/mZQpIYS9ZeFfP1K3EgEvt+AYE/DYfp9qhf7HAb76JtTtdRz8DCCAljlPZkNi1v/zd+WdFA04A8xga1pNw==
   dependencies:
     svelte ">=3"
-    tslib "^2.0.3"
-    tsparticles "^1.24.1"
+    tslib "^2.1.0"
+    tsparticles "^1.26.2"
 
 svelte@>=3:
   version "3.35.0"
@@ -856,15 +856,15 @@ trim-repeated@^1.0.0:
   dependencies:
     escape-string-regexp "^1.0.2"
 
-tslib@^2.0.3:
-  version "2.0.3"
-  resolved "https://registry.yarnpkg.com/tslib/-/tslib-2.0.3.tgz#8e0741ac45fc0c226e58a17bfc3e64b9bc6ca61c"
-  integrity sha512-uZtkfKblCEQtZKBF6EBXVZeQNl82yqtDQdv+eck8u7tdPxjLu2/lp5/uPW+um2tpuxINHWy3GhiccY7QgEaVHQ==
+tslib@^2.1.0:
+  version "2.2.0"
+  resolved "https://registry.yarnpkg.com/tslib/-/tslib-2.2.0.tgz#fb2c475977e35e241311ede2693cee1ec6698f5c"
+  integrity sha512-gS9GVHRU+RGn5KQM2rllAlR3dU6m7AcpJKdtH8gFvQiC4Otgk98XnmMU+nZenHt/+VhnBPWwgrJsyrdcw6i23w==
 
-tsparticles@^1.24.1:
-  version "1.24.1"
-  resolved "https://registry.yarnpkg.com/tsparticles/-/tsparticles-1.24.1.tgz#7807fe1ce8c9f7caa7b17e6f3ed5e6e6789fd6d8"
-  integrity sha512-swPu6qjssFEuM8IUWvrRV0Q35raL8FaCK17x9g7Wt2Rtz/cN5JXbxDtEtQfS6MslKvUQI71L/kWVrS43eCzoJg==
+tsparticles@^1.26.2:
+  version "1.26.2"
+  resolved "https://registry.yarnpkg.com/tsparticles/-/tsparticles-1.26.2.tgz#1d1c712f12ea98cafef7fd6657abdf3af09863f7"
+  integrity sha512-rUOd8lrpZwcEIa0Ft+QzS73Eorl4xo6neVDNGFPxakSOMbOPL7OHdzjbqZgoE93dbRBzJlguhRMGZiRRuH86gQ==
   optionalDependencies:
     pathseg "^1.2.0"
 
