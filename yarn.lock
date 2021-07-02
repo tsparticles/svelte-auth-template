@@ -804,19 +804,13 @@ supports-color@^6.1.0:
   dependencies:
     has-flag "^3.0.0"
 
-svelte-particles@^1.10.0:
-  version "1.10.0"
-  resolved "https://registry.yarnpkg.com/svelte-particles/-/svelte-particles-1.10.0.tgz#f4e8b5ae20eafeb553f6353c1a9d4b75cf0a4535"
-  integrity sha512-UUXU6/dnLMl+zEQ/aIlQeuHv5CttPkV/Bdo7m4mZs1ZyJGPgrStd2NyfdUOKIq2AWbyJazViYPAtb/4xO72ovA==
+svelte-particles@^1.11.0:
+  version "1.13.2"
+  resolved "https://registry.yarnpkg.com/svelte-particles/-/svelte-particles-1.13.2.tgz#58b2f419ed10aafc73bcb3d87730e56c65b7a8b5"
+  integrity sha512-k1c80diSk1Iwnmn/98NWWGsIE9nHfAaAejb5MbewPy2ghJI6WXWhquCUs9pQSYW+lZdShB6pkURim6yethK7WA==
   dependencies:
-    svelte ">=3"
-    tslib "^2.1.0"
-    tsparticles "^1.27.0"
-
-svelte@>=3:
-  version "3.35.0"
-  resolved "https://registry.yarnpkg.com/svelte/-/svelte-3.35.0.tgz#e0d0ba60c4852181c2b4fd851194be6fda493e65"
-  integrity sha512-gknlZkR2sXheu/X+B7dDImwANVvK1R0QGQLd8CNIfxxGPeXBmePnxfzb6fWwTQRsYQG7lYkZXvpXJvxvpsoB7g==
+    tslib "^2.3.0"
+    tsparticles "^1.30.2"
 
 svelte@^3.0.0:
   version "3.24.0"
@@ -856,15 +850,15 @@ trim-repeated@^1.0.0:
   dependencies:
     escape-string-regexp "^1.0.2"
 
-tslib@^2.1.0:
-  version "2.2.0"
-  resolved "https://registry.yarnpkg.com/tslib/-/tslib-2.2.0.tgz#fb2c475977e35e241311ede2693cee1ec6698f5c"
-  integrity sha512-gS9GVHRU+RGn5KQM2rllAlR3dU6m7AcpJKdtH8gFvQiC4Otgk98XnmMU+nZenHt/+VhnBPWwgrJsyrdcw6i23w==
+tslib@^2.3.0:
+  version "2.3.0"
+  resolved "https://registry.yarnpkg.com/tslib/-/tslib-2.3.0.tgz#803b8cdab3e12ba581a4ca41c8839bbb0dacb09e"
+  integrity sha512-N82ooyxVNm6h1riLCoyS9e3fuJ3AMG2zIZs2Gd1ATcSFjSA23Q0fzjjZeh0jbJvWVDZ0cJT8yaNNaaXHzueNjg==
 
-tsparticles@^1.27.0:
-  version "1.27.0"
-  resolved "https://registry.yarnpkg.com/tsparticles/-/tsparticles-1.27.0.tgz#0580fa5df6a2bf66a15eb7d944276f945e704712"
-  integrity sha512-7gBErOh21DNDbcflrxb7PT6eQPldTZURx6l099DRZbtbzzhT/N3Jyx80xsvjVPB52m30KiQswAsaMMg2lq+iFA==
+tsparticles@^1.30.2:
+  version "1.30.2"
+  resolved "https://registry.yarnpkg.com/tsparticles/-/tsparticles-1.30.2.tgz#a77841eadccf97cbcc8f171ed5599f37fd39ceb5"
+  integrity sha512-S9NXMN6MloJO/+cqh72i2hhtuxm2anVdJmcvjcYHe/jJYfsNdQ5sxpMy82d3sGk6bREzt8ZW/oPXeyPhf6q6fg==
   optionalDependencies:
     pathseg "^1.2.0"
 
