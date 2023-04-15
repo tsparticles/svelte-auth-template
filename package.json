@@ -14,7 +14,7 @@
   "devDependencies": {
     "@rollup/plugin-commonjs": "^24.0.0",
     "@rollup/plugin-json": "^6.0.0",
-    "@rollup/plugin-node-resolve": "^8.0.0",
+    "@rollup/plugin-node-resolve": "^15.0.0",
     "rollup": "^3.0.0",
     "rollup-plugin-livereload": "^1.0.0",
     "rollup-plugin-svelte": "^7.0.0",
