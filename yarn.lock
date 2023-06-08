@@ -850,11 +850,11 @@ supports-preserve-symlinks-flag@^1.0.0:
   integrity sha512-ot0WnXS9fgdkgIcePe6RHNk1WA8+muPa6cSjeR3V8K27q9BB1rTE3R1p7Hv0z1ZyAc8s6Vvv8DIyWf681MAt0w==
 
 svelte-particles@^2.0.0:
-  version "2.9.3"
-  resolved "https://registry.yarnpkg.com/svelte-particles/-/svelte-particles-2.9.3.tgz#7f12b208cef4c178a8c9f1c20bd9812555a7916c"
-  integrity sha512-wJBmpw0Ob06RjmSFLUv1pjEahWO5i2/wbqORmvct9n72TOeeHsdDDEGClPUzxoW/l1h5n2wcYyjdPE3fGOTdIg==
+  version "2.10.1"
+  resolved "https://registry.yarnpkg.com/svelte-particles/-/svelte-particles-2.10.1.tgz#13e6fc18fa4e71f23a921e31be366e32a8d64701"
+  integrity sha512-/yN6B0HBrO2ULVGxo4YRjYcLtzysL5QWD267IfKrhCd+JfQwMV0kPisBqvS4XMoBCksmwf4nyyrKesgrDze0Qg==
   dependencies:
-    tsparticles-engine "^2.9.3"
+    tsparticles-engine "^2.10.1"
 
 svelte@^3.49.0:
   version "3.59.1"
@@ -895,10 +895,10 @@ trim-repeated@^1.0.0:
   dependencies:
     escape-string-regexp "^1.0.2"
 
-tsparticles-engine@^2.9.3:
-  version "2.9.3"
-  resolved "https://registry.yarnpkg.com/tsparticles-engine/-/tsparticles-engine-2.9.3.tgz#c521edd951df2520bd0a8aa76dbbe1b0b183094a"
-  integrity sha512-iAD8LyRH//kx10fDMm6AfQV6dRHs1ZacUUHqVwfutcqM4x1IV2ygpjk0X87LKCnBxYeIMG78+tlxXpnpwUccOg==
+tsparticles-engine@^2.10.1:
+  version "2.10.1"
+  resolved "https://registry.yarnpkg.com/tsparticles-engine/-/tsparticles-engine-2.10.1.tgz#43097da18ea6b4123f12115fcbd5243d45e85fd7"
+  integrity sha512-DV2gYsbChyiXYIZYgnXtKHSAZdvnNMJpVf9Cw0gO7vjQ6pcgLAeyboRtvsaTfwKZNzzA7BeSf1lVhgGxorL4CQ==
 
 universalify@^0.1.0:
   version "0.1.2"
